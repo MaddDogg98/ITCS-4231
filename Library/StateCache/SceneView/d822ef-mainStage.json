@@ -1,5 +1,13 @@
 <<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.0,"y":2.0,"z":-10.0},"rotation":{"x":0.0,"y":-0.7071068286895752,"z":0.0,"w":0.7071068286895752},"size":13.08059024810791,"orthographic":false}
+=======
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.35580968856811526,"y":-30.754894256591798,"z":20.864883422851564},"rotation":{"x":-0.3873959481716156,"y":0.006079931743443012,"z":-0.0025607754942029716,"w":-0.9218999743461609},"size":60.547672271728519,"orthographic":false}
+=======
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-1.1002087593078614,"y":3.8934013843536379,"z":-5.0373382568359379},"rotation":{"x":0.04528409242630005,"y":-0.022164160385727884,"z":0.0010099380742758513,"w":0.9987373948097229},"size":5.887209892272949,"orthographic":false}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":2.344496011734009,"y":-11.896570205688477,"z":33.89400863647461},"rotation":{"x":0.0,"y":-0.7071068286895752,"z":0.0,"w":0.7071068286895752},"size":61.900604248046878,"orthographic":false}
 >>>>>>> c0dc301666a395fe56b061c8c630afb660394dcd
+>>>>>>> 7452a53c8b88491362f4fdd75d077b1b64fc4322
+>>>>>>> e5e5ffe7271add867571c74f14a44ffeb5a01620
